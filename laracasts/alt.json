@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "title": "Alternative Post",
+      "author": "Ben Gunn"
+    },
+    {
+      "title": "Another Alternative Awesome Post",
+      "author": "Ben Gunn"
+    }
+  ],
+  "profile": {
+    "first_name": "Alternative Ben",
+    "last_name": "Gunn",
+    "email": "bengunn.dev@gmail.com"
+  }
+}
